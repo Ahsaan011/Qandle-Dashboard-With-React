@@ -1,0 +1,23 @@
+.App{
+  height: 100vh;
+}
+
+
+.header-input{
+  width: 30%;
+  margin-top: 10px;
+}
+
+.main-page{
+  margin: 3em;
+}
+
+.nav-img{
+  width:100%
+}
+
+.nav-item-div {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+}
